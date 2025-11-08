@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-My name is Jonathan, and I'm a rising college freshman from NYC. I plan to major in computer science, hoping to become a software or AI engineer one day. My favorite hobbies include hiking, playing basketball, and cooking. My technical interests include software engineering, AI, and cybersecurity. During high school, I worked on various coding projects, ranging from simple calculators to game bots. Currently, I am part of the KKCF program, which provides fellows with tech-intensive training. Through learning how to use GitHub, I hope to improve my collaboration with others on coding projects. Feel free to add me on LinkedIn to connect with me (www.linkedin.com/in/jonathan-jia-553063293).
-
 <!--
 **JJ123xd/JJ123xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
